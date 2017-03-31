@@ -1,0 +1,42 @@
+body {
+  min-height: 100%;
+}
+
+h1 {
+  font-size: 3em;
+  padding: 1%;
+  padding-left: 33%;
+}
+
+h3 {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 50%;
+}
+
+h3#computer-choice {
+  padding-top: 25px;
+}
+
+.throw {
+  margin-left: 8%;
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+
+.fa {
+  font-size: 6em;
+}
+
+div.computer {
+  padding-top: 25px;
+  margin-bottom: 5%;
+}
+
+div.computer-throw {
+  margin-left: 9%;
+}
+
+div.computer-throw-icon {
+  width: 175px;
+}
